@@ -17,3 +17,4 @@
 |LL_2 |Avoiding obstacles |
 |LL_3 | Bird can fly higher and lower  |
 |LL_4 | Bird are  control by player's speed |
+
